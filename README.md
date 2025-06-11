@@ -1,0 +1,1 @@
+This This project implements a digital stopwatch on a reconfigurable System-on-Chip (SoC) platform using FPGA technology and the Xilinx Vivado toolchain. The design was developed and tested for the Basys3 FPGA Development Board.
